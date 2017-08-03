@@ -1,0 +1,9 @@
+E:\Programming\Work\AppWebBrowser\AppWebBrowser\bin\Debug\AppWebBrowser.exe.config
+E:\Programming\Work\AppWebBrowser\AppWebBrowser\bin\Debug\AppWebBrowser.exe
+E:\Programming\Work\AppWebBrowser\AppWebBrowser\bin\Debug\AppWebBrowser.pdb
+E:\Programming\Work\AppWebBrowser\AppWebBrowser\obj\Debug\AppWebBrowser.csprojResolveAssemblyReference.cache
+E:\Programming\Work\AppWebBrowser\AppWebBrowser\obj\Debug\AppWebBrowser.Form1.resources
+E:\Programming\Work\AppWebBrowser\AppWebBrowser\obj\Debug\AppWebBrowser.Properties.Resources.resources
+E:\Programming\Work\AppWebBrowser\AppWebBrowser\obj\Debug\AppWebBrowser.csproj.GenerateResource.Cache
+E:\Programming\Work\AppWebBrowser\AppWebBrowser\obj\Debug\AppWebBrowser.exe
+E:\Programming\Work\AppWebBrowser\AppWebBrowser\obj\Debug\AppWebBrowser.pdb
